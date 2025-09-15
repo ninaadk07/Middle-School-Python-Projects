@@ -1,0 +1,6 @@
+a, assistant, 10.0, 2, 
+f, assistant, 432.0, 34, 
+342, assistant, 34.0, 3, 
+e, Principal, 34.0, 435, 
+bob, coordinator, 45.0, 44, 
+i, teacher, 34.0, 5463, 
